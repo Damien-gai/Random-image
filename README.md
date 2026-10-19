@@ -1,23 +1,5 @@
-Random Image v1.2.1
-A desktop slideshow application built with Electron that displays photos and videos randomly without repetition. Perfect for rediscovering large media collections, family albums, backups, and cloud exports.
+<img width="1503" height="2268" alt="image" src="https://github.com/user-attachments/assets/8c7c13da-13de-4ef6-a2b1-e8c5c104c1b8" />
 
-Features
-Random playback without repetition
-Persistent viewing history between sessions
-Automatic slideshow mode
-Click-by-click navigation mode
-Duplicate file detection
-Support for photos and videos
-Google Photos Takeout import
-Public iCloud Shared Album import
-FFmpeg-powered media conversion
-VLC fallback support
-Fullscreen mode
-Cross-platform builds (Windows, macOS, Linux)
-Requirements
-Install the latest LTS version of Node.js:
-
-https://nodejs.org
 
 An internet connection is required during the first installation to download Electron and optional FFmpeg dependencies.
 
